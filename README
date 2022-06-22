@@ -1,0 +1,19 @@
+#DAGSTER PACKAGE FOR AUTOMATION
+
+1. Instalar ambiente virtual
+
+python -m venv venv
+
+2. Activar ambiente virtual
+
+windows -> '.\venv\Script\activate'
+linux -> source 'venv/bin/activate'
+
+3. Instalar dependencias
+
+pip install -r requirements.txt
+
+4. Correr automatizacion
+
+cd  dagster_home
+python main.py
